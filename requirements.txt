@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+ultralytics
+huggingface_hub
+tensorflow
+fer
+numpy
